@@ -1,7 +1,7 @@
 {
   "name": "node-version-matches",
   "author": "Lloyd Brookes <75pound@gmail.com>",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Returns true if the current node version matches the given semver expression",
   "repository": "https://github.com/75lb/node-version-matches.git",
   "keywords": [
