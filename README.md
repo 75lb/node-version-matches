@@ -7,5 +7,27 @@
 
 # node-version-matches
 
-Returns true if the current node versions matches the given semver.
+Returns true if the current node version matches the given semver expression.
 
+```js
+> const nodeVersionMatches = require('node-version-matches')
+
+> // assuming we're using node version 10
+> nodeVersionMatches('>=7.6.0')
+true
+
+> nodeVersionMatches('<7.6.0')
+false
+
+> // optional: pass in a specific node version as the second arg.
+> nodeVersionMatches('<7.6.0', 'v4.0.0')
+true
+```
+
+```
+$ npm install node-version-matches
+```
+
+* * *
+
+&copy; 2018 Lloyd Brookes <75pound@gmail.com>.
