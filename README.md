@@ -30,4 +30,4 @@ $ npm install node-version-matches
 
 * * *
 
-&copy; 2018 Lloyd Brookes &lt;75pound@gmail.com&gt;.
+&copy; 2018 Lloyd Brookes \<75pound@gmail.com\>.
