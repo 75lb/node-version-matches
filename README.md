@@ -1,7 +1,7 @@
 [![view on npm](https://img.shields.io/npm/v/node-version-matches.svg)](https://www.npmjs.org/package/node-version-matches)
 [![npm module downloads](https://img.shields.io/npm/dt/node-version-matches.svg)](https://www.npmjs.org/package/node-version-matches)
 [![Build Status](https://travis-ci.org/75lb/node-version-matches.svg?branch=master)](https://travis-ci.org/75lb/node-version-matches)
-[![Dependency Status](https://david-dm.org/75lb/node-version-matches.svg)](https://david-dm.org/75lb/node-version-matches)
+[![Dependency Status](https://badgen.net/david/dep/75lb/node-version-matches)](https://david-dm.org/75lb/node-version-matches)
 [![Coverage Status](https://coveralls.io/repos/github/75lb/node-version-matches/badge.svg)](https://coveralls.io/github/75lb/node-version-matches)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
 
@@ -30,4 +30,4 @@ $ npm install node-version-matches
 
 * * *
 
-&copy; 2018 Lloyd Brookes \<75pound@gmail.com\>.
+&copy; 2018-19 Lloyd Brookes \<75pound@gmail.com\>.
